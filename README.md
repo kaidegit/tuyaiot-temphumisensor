@@ -29,6 +29,6 @@ Source Code is in the "source" folder
 # Todo
 This is the first board to use the Tuya module. And it actually expose some problems.
 * the LDO is too hot to influence the temperature sensor, maybe 2 or 3 degrees.
-* The MCU is a little expensive. Although I by it(STM32G031CBT6) for only about 10RMB, it is inappropriate to use a high performance MCU to do such a little thing.
+* The MCU is a little expensive. Although I buy it(STM32G031CBT6) for only about 10RMB, it is inappropriate to use a high performance MCU to do such a little thing.
 * The fixing way of the OLED, using female header and male pin, is unreliable. 
 * The USB2TTL chip CH340 and the flash chip may unused.
