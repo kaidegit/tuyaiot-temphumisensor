@@ -1,6 +1,7 @@
 [[Chinese]](README_cn.md)
 
-The Project is aim to learn how to use the iot module by Tuya. The Project is to read the temperature and the humidity from the sht30, and show it on the OLED screen and upload it to the tuya cloud. 
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices. For more information, please check [Tuya Developer Website](https://iot.tuya.com).
+
 # Introduce
 * get the temperature and the humidity information from the SHT30 sensor on board
 * show the information on the 0.96" OLED screen
@@ -25,3 +26,9 @@ STM32 CubeMX with HAL
 
 Source Code is in the "source" folder
 
+# Todo
+This is the first board to use the Tuya module. And it actually expose some problems.
+* the LDO is too hot to influence the temperature sensor, maybe 2 or 3 degrees.
+* The MCU is a little expensive. Although I by it(STM32G031CBT6) for only about 10RMB, it is inappropriate to use a high performance MCU to do such a little thing.
+* The fixing way of the OLED, using female header and male pin, is unreliable. 
+* The USB2TTL chip CH340 and the flash chip may unused.
