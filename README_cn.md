@@ -8,7 +8,7 @@
 * 上传这些信息到涂鸦云平台使我能在涂鸦APP中看到温湿度信息
 
 # 视频
-正在制作
+在我的[立创开源项目](https://oshwhub.com/baobaoa/wu-lian-wang-qi-xiang-tai-657332a)中
 # 硬件部分
 WBR3D WiFi 模块
 
