@@ -8,7 +8,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 * upload the information to the tuya cloud that I can see the temperature and the humidity in tuya APP.
 
 # Video
-TODO
+In my [oshw project](https://oshwhub.com/baobaoa/wu-lian-wang-qi-xiang-tai-657332a)
 # Hardware
 WBR3D WiFi module
 
